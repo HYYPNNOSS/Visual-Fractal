@@ -24,7 +24,7 @@ $> ./Fractol BurningShip
 
 ## Overview
 
-![alt text](https://github.com/HYYPNNOSS/Visual-Fractal/blob/main/pics/BS.png)
+![alt text](https://github.com/HYYPNNOSS/Visual-Fractal/blob/main/pics/MB.png)
 
 ![alt text](https://github.com/HYYPNNOSS/Visual-Fractal/blob/main/pics/julia.png)
 
